@@ -27,4 +27,4 @@ To run this project locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/ranjika123/Platformergame_Godot
+   git clone  https://github.com/Ranjika123/PlatformerGame_godot
