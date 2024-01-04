@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 - [Godot Engine](https://godotengine.org/download) installed on your machine.
 
-###NOTICE**
+## NOTICE**
 <h3 align=center>there are some bugs appeared when i am updating..I didnt notice it for a long time🙃..worcking on them to fix</h3>
 
 ### Installation
